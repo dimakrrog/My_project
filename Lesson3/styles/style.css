@@ -1,0 +1,22 @@
+.block {
+    width: 500px;
+    height: 100px;
+}
+
+.middle-block {
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+.orange {
+    background: orange;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
